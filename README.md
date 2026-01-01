@@ -2,12 +2,6 @@
 
 Aplikasi ini menggunakan webcam Anda untuk mengenali angka bahasa isyarat (1, 2, 3).
 
-## ⚠️ Penting: Menjalankan di Windows vs WSL
-
-**Anda harus menjalankan aplikasi ini secara native di Windows (Command Prompt atau PowerShell).**
-
-Aplikasi ini saat ini **tidak akan bekerja** di WSL (Windows Subsystem for Linux) tanpa konfigurasi rumit karena secara default WSL tidak dapat mengakses webcam Anda.
-
 ## Panduan Instalasi & Penggunaan
 
 Ikuti langkah-langkah berikut untuk menjalankan aplikasi:
